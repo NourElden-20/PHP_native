@@ -1,0 +1,1 @@
+# this program used for dtore message form the user in text file
